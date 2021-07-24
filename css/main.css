@@ -268,7 +268,7 @@ body {
 	max-width: 1080px; 
 	margin: 0 auto !important; 
 	float: none !important; 
-  background-image: url('/Users/olamidelawal/Documents/GitHub/git-practice/img/bg.png');
+  background-image: url('../img/bg.png');
   background-repeat: no-repeat;
   background-color: #0B1D26;
 
